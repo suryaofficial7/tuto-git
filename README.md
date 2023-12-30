@@ -1,2 +1,3 @@
 # tuto-git
-This is the process and use of git 
+## How to install git ?
+1.Go in to Official download [link](https://git-scm.com/downloads) 
