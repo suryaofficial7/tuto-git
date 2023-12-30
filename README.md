@@ -1,4 +1,4 @@
-# tuto-git
+# GIT TUTORIAL
 ## How to install git ?
 1.Go in to Official download [link](https://git-scm.com/downloads) <br>
 2.Select your Option and Start Downloading.
