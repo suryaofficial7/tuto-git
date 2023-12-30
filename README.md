@@ -6,7 +6,7 @@
 <br>
 3.Install in computer.<br>
 4.Check For version in the Terminal <br>
-
+<br>
 
 ```
  git config --global user.name "github_username"
