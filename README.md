@@ -5,7 +5,7 @@
 > Example Window 32bit 64bit , linux, Mac Os etc
 <br>
 3.Install in computer.<br>
-4.Check For version in the **Terminal**<br>
+4.Check For version in the Terminal <br>
 ```
  git config --global user.name "github_username"
 ```
