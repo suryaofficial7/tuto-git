@@ -15,3 +15,16 @@
 ```
 git config --global user.email "email_address"
 ```
+
+
+
+<hr>
+create branch 
+```
+git branch branch-Name
+```
+delete branch locally and globally 
+```
+git push origin --delete remoteBranchName
+```
+
