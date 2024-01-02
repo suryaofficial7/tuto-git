@@ -31,3 +31,8 @@ delete branch locally and globally
 git push origin --delete remoteBranchName
 ```
 
+brach Merge
+```
+git checkout <brach were you want > 
+git merge <branch from where you want >
+```
