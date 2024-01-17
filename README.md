@@ -48,3 +48,8 @@ git branch -M main
 git remote add origin https://github.com/suryaofficial7/s.git
 git push -u origin main
 ```
+
+### pull
+```
+git pull origin temprorybranch --allow-unrelated-histories 
+```
